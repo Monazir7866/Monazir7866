@@ -2,7 +2,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=monazir7866&label=Profile%20views&color=0e75b6&style=flat" alt="monazir7866" /> </p>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # 💫 About Me:
-🔭 I’m currently free to get hired<br>👯 I’m looking to collaborate on a backend project<br>🌱 I’m currently learning Java<br>💬 Ask me about Java, MySQL, Spring, JS<br>⚡ Fun fact :- I'm a good gamer
+🔭 I’m currently free to get hired<br>👯 I’m looking to collaborate on a backend project<br>🌱 I’m currently learning Java<br>💬 Ask me about Java, MySQL, Spring, JS<br>⚡ Fun fact :- I'm a good gamer<br>
+👨‍💻 All of my projects are available at <a href="https://Monazir7866.github.io" target="blank">PORTFOLIO</a>
 
 
 
