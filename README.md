@@ -9,7 +9,7 @@
 - 💬 Ask me about Java, MySQL, Spring, JS <br>
 - ⚡ Fun fact :- I'm a good gamer <br>
 - 📫 How to reach me <a href = "mailto: monazirhussain722@gmail.com">Send Email</a><br>
-- 👨‍💻 All of my projects are available at <a href="https://Monazir7866.github.io" target="_blank">PORTFOLIO</a> <br>
+- 👨‍💻 All of my projects are available at <a href="https://Monazir7866.github.io" target="blank">PORTFOLIO</a>
 </p>
 
 ## 🌐 Socials:
