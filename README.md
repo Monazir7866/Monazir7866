@@ -3,7 +3,6 @@
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3>💫 About Me:</h3>
 <p>
-  <a href="https://Monazir7866.github.io" target="blank">PORTFOLIO</a>
 - 🔭 I’m currently free to get hired <br>
 - 👯 I’m looking to collaborate on a backend project <br>
 - 🌱 I’m currently learning Java <br>
