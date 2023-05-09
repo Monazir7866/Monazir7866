@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://Monazir7866.github.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://monazir7866.github.io/)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=monazir7866&label=Profile%20views&color=0e75b6&style=flat" alt="monazir7866" /> </p>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3>💫 About Me:</h3>
@@ -9,7 +9,7 @@
 - 💬 Ask me about Java, MySQL, Spring, JS <br>
 - ⚡ Fun fact :- I'm a good gamer <br>
 - 📫 How to reach me <a href = "mailto: monazirhussain722@gmail.com">Send Email</a><br>
-- 👨‍💻 All of my projects are available at <a href="https://Monazir7866.github.io" target="blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="https://monazir7866.github.io/" target="blank">PORTFOLIO</a>
 </p>
 
 ## 🌐 Socials:
