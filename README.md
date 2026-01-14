@@ -15,7 +15,6 @@
 - 💬 Ask me about **Selenium, Rest Assured, TestNG, Java, API Testing**
 - ⚡ Fun fact: I enjoy gaming & breaking apps before users do 🎮
 - 📫 Reach me at: **monazirhussain722@gmail.com**
-- 👨‍💻 Portfolio: [https://monazir7866.github.io/](https://monazir7866.github.io/)
 
 ---
 
